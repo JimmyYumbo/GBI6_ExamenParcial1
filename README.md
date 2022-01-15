@@ -27,3 +27,11 @@
 Microsoft Graphics Hybrid: Not Supported
  DirectX Database Version: 1.0.8
            DxDiag Version: 10.00.19041.0928 64bit Unicode
+# Programas utilizados 
+- github
+- gitbash
+- python
+- jupyter notebook
+# Data Utilizada
+- La data utilizada fue utilizada en base a los ejericicios de moodle, la cual se tenia que ejercutar en el terminal de gitbash, para luego editar el examen en jupyternotebook, seguidamente vincular el github con el gitbash para que la edicion pueda cuardarse y ser compartida con los demas usuarios
+ 
