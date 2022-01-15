@@ -1,8 +1,8 @@
 # GBI6_ExamenParcial1
 # Pregunta 6
--Jimmy Mauricio Yumbo Grefa
--15/11/2000
--1550020752
+- Jimmy Mauricio Yumbo Grefa
+- 15/11/2000
+
 # System Information
 ------------------
       Time of this report: 1/15/2022, 11:50:07
